@@ -1,0 +1,9 @@
+#1start project and apps
+#2 migrate the data
+#3 install bcrypt using this command --> pip install bcrypt
+#4 install django args usiing command -->pip install django[argon2]
+#5 add some password hasher INSTALLED_APPS in PASSWORD_HASHES
+#6 add template, static and media directory in setting files
+#7 add OPTIONS for min_length
+#8 add  this command for add jpeg images
+#     ---> pip install pillow --global-option="build_ext" --gobal-option="--disable-jpeg"###
